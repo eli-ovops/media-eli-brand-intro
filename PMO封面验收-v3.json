@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-10",
+  "decision": "STYLE_REVISION_RECEIVED_PENDING_USER_SELECTION_AND_PLATFORM_LAYOUT",
+  "owner_turn_id": "01a12453-07e1-74f1-b023-8b9342c72178",
+  "actual_image_viewed": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/Eli首帧封面-v3.1.png",
+  "sha256": "196ab91cbe310fea43f9cdfb457d5987ada3fa833533d1eb4629c280aa346faa",
+  "observations": [
+    "米白深蓝橙笔刷与访谈封面一致",
+    "主题大标题配本人和工具流程修复画面",
+    "主文案可读且没有遮脸"
+  ],
+  "open_item": "中心3:4直接裁切会切字，后续需独立比例适配，不能称全平台封面已完成",
+  "video_changed": false
+}

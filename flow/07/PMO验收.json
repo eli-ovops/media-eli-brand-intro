@@ -1,0 +1,10 @@
+{
+  "decision": "HUMAN_GUIDANCE_ACCEPTED_WAITING_USER_PUBLICATION",
+  "read": [
+    "发送指引.md",
+    "回执.json"
+  ],
+  "ready": 5,
+  "blocked": 4,
+  "ai_sent": false
+}

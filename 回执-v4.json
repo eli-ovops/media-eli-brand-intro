@@ -1,0 +1,51 @@
+{
+  "content_id": "eli-brand-intro-20261010",
+  "date": "2026-10-10T14:11:13.323292+08:00",
+  "status": "V4_ACTUAL_PNG_DELIVERED_PENDING_PMO_USER_REVIEW",
+  "owner_thread_id": "01a11a6f-49ef-7653-934a-4312979fd4e7",
+  "task": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/封面紫色修订-v4任务.md",
+  "human_instruction": "想保持紫色的色调；图呢",
+  "method": "built-in image_gen",
+  "generation_count": 1,
+  "edit_target": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/Eli首帧封面-v3.1.png",
+  "edit_target_sha256": "196ab91cbe310fea43f9cdfb457d5987ada3fa833533d1eb4629c280aa346faa",
+  "prompt": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/prompt-v4.txt",
+  "raw_generated": "/Users/USER/.codex/generated_images/01a11a6f-49ef-7653-934a-4312979fd4e7/exec-88c2f862-d910-45fa-90c0-80e752394bb1.png",
+  "cover": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/Eli首帧封面-v4.png",
+  "cover_sha256": "6165d25ce794d0de9de7d47f5d8ca472a05dba53671dee392740f4bf996e0493",
+  "cover_bytes": 2628606,
+  "dimensions": [
+    941,
+    1672
+  ],
+  "preview": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/Eli首帧封面-v4-预览.jpg",
+  "qa": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/evidence/封面QA-v4.json",
+  "input_and_frozen_sha_verified_unchanged": true,
+  "source_video_sha256": "595d690d45aa67d72ba28d9103fd4da2092458483509a9e0a6884a403ff13806",
+  "rules": [
+    "ROUTING-2026-09-30-v3",
+    "HANDOFF-2026-10-10-v2",
+    "BLOCKERS-2026-09-23-v1"
+  ],
+  "target_model": "gpt-6.1-sol",
+  "target_effort": "medium",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "actual_speed": "UNKNOWN",
+  "boundary": {
+    "changed_video": false,
+    "copied_input_again": false,
+    "modified_old_images_or_receipts": false,
+    "uploaded_or_published": false,
+    "dispatched_other_threads": false,
+    "modified_shared_state": false,
+    "installed_or_paid": false,
+    "deleted": false
+  },
+  "remaining": [
+    "用户选定封面",
+    "3:4比例与实际平台遮挡由后续阶段适配"
+  ],
+  "temporary_records": "v4原PNG/预览/提示词/QA/回执/脚本全部保留用于审图；无新视频或自动化",
+  "failures": []
+}

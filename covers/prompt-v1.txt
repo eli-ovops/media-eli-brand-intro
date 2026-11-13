@@ -1,0 +1,11 @@
+Use case: identity-preserve / ads-marketing.
+Create ONE finished vertical 9:16 personal-brand video cover, preferably 1080x1920 pixels, opaque background.
+Reference image 1 (03.000 seconds): primary identity reference, preserve this exact person's face, hair, facial proportions and thin round metal glasses; not a new model or invented person.
+Reference image 2 (05.000 seconds): supporting wardrobe and purple-black stage reference; same black overshirt/jacket over a plain cream shirt.
+Design a striking but restrained premium purple-black cinematic poster for Eli. Keep the subject's recognizable photorealistic face large and clear, naturally looking toward viewer, neutral confident expression. Preserve the existing thin round eyeglasses and dark short tousled hair, age and real face shape; no beautifying, no slimming, no celebrity substitution. Purple rim light around the jacket and a quiet soft violet glow behind him, near-black background with subtle architectural perspective. No extra people, no random UI text, no logos, no fabricated achievements.
+Composition: one large waist-up portrait in the upper-middle of frame, crown safely below 20% height, face well inside central 70% width. The portrait takes roughly the center 25%-58% height. Three clean lines of typography below the portrait, completely separated from the face and glasses. Main title very large bold white, second line smaller but clearly readable white, final line restrained violet-white. Keep every essential part of the face and all three text lines inside centered 3:4 crop of the full 9:16 frame (roughly y=13%-87%), x=10%-82%. Keep the very top, bottom 15%, and far right 15% free of essential information for platform overlays. Do not add text in margins.
+Exact text, render verbatim with clean Chinese sans-serif typography:
+我是 Eli
+把 AI 用进真实任务
+AI｜Agent｜FDE
+Spell the name E-l-i with capital E, lower-case l and i. No other words, no watermark, no punctuation additions. The second line must stay on ONE line and remain legible on a phone. Use the specified full-width vertical separators ｜ on the final line. All typography crisp and professional. Preserve identity from input images while recompose only the background, pose framing and text as this cover. This is a static cover only.

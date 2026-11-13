@@ -1,0 +1,11 @@
+Edit this cover with ONE focused correction: make all four required text groups safely fit a centered 3:4 crop inside the vertical 9:16 canvas, and remove all unrequested decorative words. Preserve the existing cream paper, navy/orange huge brush typography, dense illustrated scene, orange routes, three dimensional blue theme cards and the exact same Eli face, hair, round glasses and clothing. Keep ONE person. Do not revert to purple-black portrait style.
+The current top headline starts too close to the top, and the final identity line is too near the bottom. Recompose their layout within these exact normalized vertical ranges:
+- Top 0%-15% should contain paper texture/paint ONLY, no text and no head.
+- Entire giant headline between y=17%-36%, two lines: 把 AI / 用起来. Keep full characters, orange AI and 用 or 用起来, navy remaining brush strokes. Slightly reduce the title if needed, but retain strong impact.
+- Subtitle between y=38%-42%: 实用方法 · 项目经验 · 踩坑分享
+- Preserve Eli cutout and three blue theme cards, now fitted in y=45%-73%. Face and eyeglasses must remain large and unobstructed. No text on face. Cards must retain tool UI / node workflow+gear / bug→wrench→check symbols; keep their existing conceptual meanings.
+- Identity title y=76%-80%: 我是 Eli
+- Auxiliary identity y=82%-85%: AI｜Agent｜FDE
+- Bottom 87%-100% contains decoration ONLY.
+Keep all four required text groups within x=11%-84%, avoid rightmost overlay strip. Explicitly REMOVE the extra handwritten slogans at top-right and left, the IDEA PLAN ACTION BETTER ME words and every Chinese word on the bottom-right books. Those decorative books/papers can remain as blank illustrated elements. No text anywhere beyond the four exact groups listed above. No new words.
+Preserve the recognizable face and round glasses without beautifying or changing facial proportions. Keep the same illustration/collage art direction. Output one finished vertical cover, no crop guide, no comparison sheet.

@@ -1,0 +1,83 @@
+{
+  "content_id": "eli-brand-intro-20261010",
+  "total_bytes": 4581945,
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/adapt_cover_v4.py",
+      "bytes": 1974,
+      "sha256": "bd132ea936bc311ab98dd501c7b55a5f7259cdff0e677d95624396b259bf82e1",
+      "source": "本条批准v4机械等比适配或本轮记录",
+      "purpose": "发布封面适配、实际审阅及恢复；保留"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/record_adaptation_v4.py",
+      "bytes": 2717,
+      "sha256": "bf38fb324ad71de6908c1d7a7c54ae8383df6f1dd8a3b7f581f0955f19ae950c",
+      "source": "本条批准v4机械等比适配或本轮记录",
+      "purpose": "发布封面适配、实际审阅及恢复；保留"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/evidence/比例适配-v4-原始核验.json",
+      "bytes": 2908,
+      "sha256": "3a0812c715b4cc2fa5ec24cc945777f8521a58a5057a41c2e859ac0a066f06fc",
+      "source": "本条批准v4机械等比适配或本轮记录",
+      "purpose": "发布封面适配、实际审阅及恢复；保留"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/比例适配回执-v4.json",
+      "bytes": 4882,
+      "sha256": "a33d7a24619b8f170e5659e35d1c93d4037ebb1322c84f1959f9332f697c8e8f",
+      "source": "本条批准v4机械等比适配或本轮记录",
+      "purpose": "发布封面适配、实际审阅及恢复；保留"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/README.md",
+      "bytes": 5353,
+      "sha256": "fcba0b32879231bfbb6ba8f91ac05065e0289ccbbe1c597ada43623fcb38699d",
+      "source": "本条批准v4机械等比适配或本轮记录",
+      "purpose": "发布封面适配、实际审阅及恢复；保留"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/适配-v4/Eli首帧封面-v4-16比9-预览.jpg",
+      "bytes": 65759,
+      "sha256": "154ebf8978cf1eb8aa288f96101989b1dbc25e149bd697a95c5e2db261e6b1b5",
+      "source": "本条批准v4机械等比适配或本轮记录",
+      "purpose": "发布封面适配、实际审阅及恢复；保留"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/适配-v4/Eli首帧封面-v4-16比9.png",
+      "bytes": 1150947,
+      "sha256": "45d6f1c7ea2d3ba36d87dbe0eabf65d25e3d59a5796bb217d0277e35c45a2f32",
+      "source": "本条批准v4机械等比适配或本轮记录",
+      "purpose": "发布封面适配、实际审阅及恢复；保留"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/适配-v4/Eli首帧封面-v4-3比4-预览.jpg",
+      "bytes": 177265,
+      "sha256": "ed479fcb751b0bfec05467a77a8356344a766977f9656c46d46a712c6eb6190c",
+      "source": "本条批准v4机械等比适配或本轮记录",
+      "purpose": "发布封面适配、实际审阅及恢复；保留"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/适配-v4/Eli首帧封面-v4-3比4.png",
+      "bytes": 1922403,
+      "sha256": "dc1791f0d46a5b1103bb372d4cb340bea954ef71840c8ca036dc0f6673d1cf9f",
+      "source": "本条批准v4机械等比适配或本轮记录",
+      "purpose": "发布封面适配、实际审阅及恢复；保留"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/适配-v4/Eli首帧封面-v4-4比3-预览.jpg",
+      "bytes": 106141,
+      "sha256": "884d91ec3fb4b1f313af97eb4d8da70672f807a9e64313bd5266131f517999fb",
+      "source": "本条批准v4机械等比适配或本轮记录",
+      "purpose": "发布封面适配、实际审阅及恢复；保留"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/适配-v4/Eli首帧封面-v4-4比3.png",
+      "bytes": 1141596,
+      "sha256": "d6fd3fd971bbb10f3a403a63f4ec65c114eaf55b4c5c03a5e67d7497d44dcf7f",
+      "source": "本条批准v4机械等比适配或本轮记录",
+      "purpose": "发布封面适配、实际审阅及恢复；保留"
+    }
+  ]
+}

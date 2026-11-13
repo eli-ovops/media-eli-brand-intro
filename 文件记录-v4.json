@@ -1,0 +1,259 @@
+{
+  "content_id": "eli-brand-intro-20261010",
+  "version": "v4",
+  "total_bytes": 32820952,
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/PMO封面验收-v2.json",
+      "bytes": 1371,
+      "sha256": "d4edbeed25c29bd556b4f62ecabe12b6d31906b37649a65db510082b092c9a16",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/PMO封面验收-v3.json",
+      "bytes": 672,
+      "sha256": "f51836b85c367e043b010aeb95a8dbd4540c008e7b9b2ccecc6d07f311061655",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/README.md",
+      "bytes": 4446,
+      "sha256": "e2aaf8e4faa6f387bcb69204d4da585ad8937a1ff9aeeba0724511c949226ac1",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/Eli首帧封面-v1.png",
+      "bytes": 1755036,
+      "sha256": "3f323db3c7423ddc07de9ab9913d8aca8d714450e8452ed6912c7b20ac3dbfa2",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/Eli首帧封面-v2-预览.jpg",
+      "bytes": 36873,
+      "sha256": "70c611b94439d1bc9b0e1dd8b68b4f45ce748f1eaad17193875ec5bd1d9ca74f",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/Eli首帧封面-v2.png",
+      "bytes": 1714540,
+      "sha256": "c273f4d67e6ecc4b21c3679c507c199f36449817d2102344492d8ffd5ca62dfa",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/Eli首帧封面-v3.1-预览.jpg",
+      "bytes": 129429,
+      "sha256": "421d2b2ceaadb118bf9fe164842ec60e57d5bd39b39b35ca391d47696942af81",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/Eli首帧封面-v3.1.png",
+      "bytes": 2756359,
+      "sha256": "196ab91cbe310fea43f9cdfb457d5987ada3fa833533d1eb4629c280aa346faa",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/Eli首帧封面-v3.png",
+      "bytes": 2984771,
+      "sha256": "2a98a8008868b7220be781d79908199da46c823a210ff5db66afaa3a371a2bbe",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/Eli首帧封面-v4-预览.jpg",
+      "bytes": 113928,
+      "sha256": "df8eae1af0efa35589dc97605b51ed766e8549541e29b82f99abca3be7647f99",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/Eli首帧封面-v4.png",
+      "bytes": 2628606,
+      "sha256": "6165d25ce794d0de9de7d47f5d8ca472a05dba53671dee392740f4bf996e0493",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/prompt-v1.txt",
+      "bytes": 2305,
+      "sha256": "d3ea8d46b841ff62bca1c2e095e819a9c27173a489c274256498ddf19f4d904e",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/prompt-v2.txt",
+      "bytes": 1548,
+      "sha256": "b991fa5f3c6e39419e7aca97a984ef98ad90565f62c4ed88e8df387f96cdad79",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/prompt-v3.1.txt",
+      "bytes": 2018,
+      "sha256": "aa0f34ab9d26dbc7e390bb1ede16464c3baf475079e29944ede77846a469b23b",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/prompt-v3.txt",
+      "bytes": 3468,
+      "sha256": "5a98535fee8ef0988439f4d12b1cfade441d91985f47c2ad783595c77feeed53",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/prompt-v4.txt",
+      "bytes": 1659,
+      "sha256": "85bde5227e4698378a2d9f41a45eb322e0bac42d6f11791e2aeb7fe98223bbf3",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/evidence/参考帧-03.000.png",
+      "bytes": 652888,
+      "sha256": "32f47dbf9a55490933e39d2429a3af654bc81d66e6ca252c6ce06985141f1f5b",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/evidence/参考帧-05.000.png",
+      "bytes": 557161,
+      "sha256": "c7419b5803216fe83dd9653c778d5254d1750a21c1ef4e76f94d8419f37e2b70",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/evidence/封面QA-v3.json",
+      "bytes": 2859,
+      "sha256": "04f902ca5ed9cbd29c42ecb5a4294b964e978b97cf0917ed912d8c6a1b1029b5",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/evidence/封面QA-v4.json",
+      "bytes": 884,
+      "sha256": "c6080d3e3c49fc02cfe35ccd3e597fcf67e6db4abfd233797646f6a17c71b8ea",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/evidence/居中3比4裁切检查-v1.png",
+      "bytes": 1261809,
+      "sha256": "71c56361e28bfeb8a03c800a4429fec5d7f1fde8d489ed3d89407a22f3fa0ce6",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/evidence/居中3比4裁切检查-v2.png",
+      "bytes": 1925342,
+      "sha256": "d62f4940a9998834153fdb3f66d221e1738f0dd579e72a65fca8ec81d357b203",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/evidence/居中3比4裁切检查-v3.1.png",
+      "bytes": 2848907,
+      "sha256": "697638850800023ff519d2810c5005fe036b4d1db79915f3f67c36609352d10f",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/evidence/输入冻结.json",
+      "bytes": 573,
+      "sha256": "ab897908cafea2ecb697446773de85dabac9a1f9091fbffcc8fbdb2cec55c0db",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/evidence/输入规格-avprobe.json",
+      "bytes": 286,
+      "sha256": "a1e2acfb78e696667190bde7e3efb97875aeaa0939ccfe4edeed6633b5172661",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/record_delivery.py",
+      "bytes": 5171,
+      "sha256": "dd634f301ab58e1e9ff66d603a730f49abfcbd122d0b1023824d7065e79de283",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/record_delivery_v3.py",
+      "bytes": 4918,
+      "sha256": "feb5126e088986e1dd0a778677c7b796a4de54205e45a6bd5d2f90168d145012",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/record_delivery_v4.py",
+      "bytes": 3252,
+      "sha256": "193eb0bf727462056f978fa19c031409d650396ae31be7cf27b3c319f7914984",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/sources/Eli个人品牌-用户指定修订版-20261010.mp4",
+      "bytes": 13386003,
+      "sha256": "595d690d45aa67d72ba28d9103fd4da2092458483509a9e0a6884a403ff13806",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/回执-v3.json",
+      "bytes": 3366,
+      "sha256": "b047b623300854204ffe5a4f20de11a8654290345728a3bf3cf9f64e338ce3e4",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/回执-v4.json",
+      "bytes": 2224,
+      "sha256": "01205997e69d3ea80af53dea21b17545b371f36901ca7841f81b69c5165d1fcc",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/回执.json",
+      "bytes": 5430,
+      "sha256": "c1bc1fbf24257a0a5732309196453840a0499bb848c3467f252130f3c2868e37",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/封面紫色修订-v4任务.md",
+      "bytes": 1150,
+      "sha256": "529e6898adb83c57b864222419fc8882358fd4bc81817adee1cf33256226e861",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/封面风格修订-v3任务.md",
+      "bytes": 2764,
+      "sha256": "e40da85800395340a1066dc2312009558f4f79e0865931431d515656fbd3b5b7",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/文件记录-v3.json",
+      "bytes": 12300,
+      "sha256": "8b99e423e452787d70e998c8f90fc75486d1526319b415ffff9d8bcd12785322",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/文件记录.json",
+      "bytes": 6636,
+      "sha256": "bdbc5704cd0ef5a76dc748eaea538df6ecbafb861d3a7fe8c53594e579611371",
+      "source": "本内容冻结输入、版本封面、静态QA或制作记录",
+      "purpose": "保留用于审图/发布适配/来源验证"
+    }
+  ]
+}

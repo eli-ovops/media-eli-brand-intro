@@ -1,0 +1,145 @@
+{
+  "content_id": "eli-brand-intro-20261010",
+  "total_bytes": 21307124,
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/README.md",
+      "bytes": 2159,
+      "sha256": "4aa419127c571e378ef7f6a9ed76e3c79db6738d0e2a9dd0fcbdcffa52a71d86",
+      "mtime": "2026-10-10T13:31:48.065758+08:00",
+      "source": "本轮制作记录",
+      "purpose": "提示词、来源校验或交接证据",
+      "cleanup": "保留；本轮未发布、未删除"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/Eli首帧封面-v1.png",
+      "bytes": 1755036,
+      "sha256": "3f323db3c7423ddc07de9ab9913d8aca8d714450e8452ed6912c7b20ac3dbfa2",
+      "mtime": "2026-10-10T13:28:56.816103+08:00",
+      "source": "内置imagegen",
+      "purpose": "主封面v2或历史v1",
+      "cleanup": "保留；本轮未发布、未删除"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/Eli首帧封面-v2-预览.jpg",
+      "bytes": 36873,
+      "sha256": "70c611b94439d1bc9b0e1dd8b68b4f45ce748f1eaad17193875ec5bd1d9ca74f",
+      "mtime": "2026-10-10T13:30:30.469362+08:00",
+      "source": "PNG忠实缩小预览",
+      "purpose": "手机尺寸审阅",
+      "cleanup": "保留；本轮未发布、未删除"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/Eli首帧封面-v2.png",
+      "bytes": 1714540,
+      "sha256": "c273f4d67e6ecc4b21c3679c507c199f36449817d2102344492d8ffd5ca62dfa",
+      "mtime": "2026-10-10T13:30:08.592935+08:00",
+      "source": "内置imagegen",
+      "purpose": "主封面v2或历史v1",
+      "cleanup": "保留；本轮未发布、未删除"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/prompt-v1.txt",
+      "bytes": 2305,
+      "sha256": "d3ea8d46b841ff62bca1c2e095e819a9c27173a489c274256498ddf19f4d904e",
+      "mtime": "2026-10-10T13:28:16.355157+08:00",
+      "source": "本轮制作记录",
+      "purpose": "提示词、来源校验或交接证据",
+      "cleanup": "保留；本轮未发布、未删除"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/prompt-v2.txt",
+      "bytes": 1548,
+      "sha256": "b991fa5f3c6e39419e7aca97a984ef98ad90565f62c4ed88e8df387f96cdad79",
+      "mtime": "2026-10-10T13:29:34.420745+08:00",
+      "source": "本轮制作记录",
+      "purpose": "提示词、来源校验或交接证据",
+      "cleanup": "保留；本轮未发布、未删除"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/evidence/参考帧-03.000.png",
+      "bytes": 652888,
+      "sha256": "32f47dbf9a55490933e39d2429a3af654bc81d66e6ca252c6ce06985141f1f5b",
+      "mtime": "2026-10-10T13:27:55.052098+08:00",
+      "source": "指定视频FFmpeg3/5秒抽帧",
+      "purpose": "封面身份/风格参考",
+      "cleanup": "保留；本轮未发布、未删除"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/evidence/参考帧-05.000.png",
+      "bytes": 557161,
+      "sha256": "c7419b5803216fe83dd9653c778d5254d1750a21c1ef4e76f94d8419f37e2b70",
+      "mtime": "2026-10-10T13:27:55.138676+08:00",
+      "source": "指定视频FFmpeg3/5秒抽帧",
+      "purpose": "封面身份/风格参考",
+      "cleanup": "保留；本轮未发布、未删除"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/evidence/居中3比4裁切检查-v1.png",
+      "bytes": 1261809,
+      "sha256": "71c56361e28bfeb8a03c800a4429fec5d7f1fde8d489ed3d89407a22f3fa0ce6",
+      "mtime": "2026-10-10T13:29:16.674279+08:00",
+      "source": "本轮PNG的QA裁切",
+      "purpose": "静态构图检查，非平台交付",
+      "cleanup": "保留；本轮未发布、未删除"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/evidence/居中3比4裁切检查-v2.png",
+      "bytes": 1925342,
+      "sha256": "d62f4940a9998834153fdb3f66d221e1738f0dd579e72a65fca8ec81d357b203",
+      "mtime": "2026-10-10T13:30:30.620987+08:00",
+      "source": "本轮PNG的QA裁切",
+      "purpose": "静态构图检查，非平台交付",
+      "cleanup": "保留；本轮未发布、未删除"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/evidence/输入冻结.json",
+      "bytes": 573,
+      "sha256": "ab897908cafea2ecb697446773de85dabac9a1f9091fbffcc8fbdb2cec55c0db",
+      "mtime": "2026-10-10T13:27:43.458660+08:00",
+      "source": "本轮制作记录",
+      "purpose": "提示词、来源校验或交接证据",
+      "cleanup": "保留；本轮未发布、未删除"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/evidence/输入规格-avprobe.json",
+      "bytes": 286,
+      "sha256": "a1e2acfb78e696667190bde7e3efb97875aeaa0939ccfe4edeed6633b5172661",
+      "mtime": "2026-10-10T13:27:43.457694+08:00",
+      "source": "本轮制作记录",
+      "purpose": "提示词、来源校验或交接证据",
+      "cleanup": "保留；本轮未发布、未删除"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/record_delivery.py",
+      "bytes": 5171,
+      "sha256": "dd634f301ab58e1e9ff66d603a730f49abfcbd122d0b1023824d7065e79de283",
+      "mtime": "2026-10-10T13:31:48.067564+08:00",
+      "source": "本轮制作记录",
+      "purpose": "提示词、来源校验或交接证据",
+      "cleanup": "保留；本轮未发布、未删除"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/sources/Eli个人品牌-用户指定修订版-20261010.mp4",
+      "bytes": 13386003,
+      "sha256": "595d690d45aa67d72ba28d9103fd4da2092458483509a9e0a6884a403ff13806",
+      "mtime": "2026-10-10T13:22:06.037920+08:00",
+      "source": "用户指定输入原样复制",
+      "purpose": "冻结发布准备输入，保留",
+      "cleanup": "保留；本轮未发布、未删除"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/回执.json",
+      "bytes": 5430,
+      "sha256": "c1bc1fbf24257a0a5732309196453840a0499bb848c3467f252130f3c2868e37",
+      "mtime": "2026-10-10T13:31:48.224097+08:00",
+      "source": "本轮制作记录",
+      "purpose": "提示词、来源校验或交接证据",
+      "cleanup": "保留；本轮未发布、未删除"
+    }
+  ],
+  "raw_generated_files_preserved": [
+    "/Users/USER/.codex/generated_images/01a11a6f-49ef-7653-934a-4312979fd4e7/exec-f49c9974-96f2-46f3-9b27-27558689ac8f.png",
+    "/Users/USER/.codex/generated_images/01a11a6f-49ef-7653-934a-4312979fd4e7/exec-7c454647-d8bc-4bd3-9a3f-9a3f84bde1eb.png"
+  ]
+}

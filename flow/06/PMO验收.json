@@ -1,0 +1,34 @@
+{
+  "content_id": "eli-brand-intro-20261010",
+  "decision": "PARTIAL_ACCEPTED_5_EDITORS_READY_FOR_HUMAN_REVIEW",
+  "ready_platforms": [
+    "小红书",
+    "B站",
+    "抖音",
+    "LinkedIn",
+    "微博"
+  ],
+  "blocked_platforms": {
+    "YouTube": "本人手机号验证缩略图",
+    "视频号": "既有site-safety拒绝，仅本人上传",
+    "X": "连接失败",
+    "TikTok": "上传入口不可用"
+  },
+  "evidence_read": [
+    "回执.json",
+    "逐站准备表.md",
+    "小红书-完整封面已应用.jpg",
+    "B站-双封面保存后回读.jpg",
+    "抖音-双封面保存回读.jpg",
+    "微博-完整封面已应用.jpg",
+    "LinkedIn-完整封面回读.jpg"
+  ],
+  "actual_images_viewed": true,
+  "music": "保留批准原片音乐；未新增平台热门混音，网页入口缺失与关联能力分开",
+  "limit": [
+    "本人最终试听和审阅待做",
+    "小红书微博云草稿保存UNKNOWN，保留当前页",
+    "抖音横封面留边优化提示，未阻止发送"
+  ],
+  "ai_publication_allowed": false
+}

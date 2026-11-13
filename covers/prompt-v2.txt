@@ -1,0 +1,10 @@
+Edit the supplied Eli cover only to improve crop-safe positioning. Preserve the exact same face, facial proportions, hairstyle, thin round metal eyeglasses, black jacket, cream shirt, purple-black lighting/background, photographic realism, and the same three correct text lines. Do not change identity or add anything.
+Keep a vertical 9:16 canvas. The current central 3:4 crop would clip the hair at the top and final auxiliary line at the bottom. Correct this composition:
+- Slightly reduce portrait scale and move the portrait down so the entire hairstyle starts at approximately 17% canvas height, face and glasses remain large at 25%-44%, safely inside x=15%-75%.
+- Move the complete three-line text block upward by about 6% canvas height, retaining a large title and excellent contrast; main title occupies roughly y=62%-71%, second line y=74%-79%, third line y=81%-84%. Keep all characters within x=12%-84%, especially the final rightmost Chinese character. Do not place text across face/eyeglasses. Text can sit on the dark lower jacket.
+- All essential hair/face/text must be entirely inside the centered 3:4 crop of the full vertical 9:16 image (y approximately13%-87%). Keep the very top, bottom15%, and right15% clear of essential text.
+Exact text unchanged, no extra words:
+我是 Eli
+把 AI 用进真实任务
+AI｜Agent｜FDE
+Use capital E, lowercase l and i. Keep the exact Chinese characters and full-width vertical separators. Output ONE finished cover, not a comparison sheet and not a crop guide. Prefer 1080x1920. No watermark.

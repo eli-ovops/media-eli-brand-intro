@@ -1,0 +1,73 @@
+{
+  "content_id": "eli-brand-intro-20261010",
+  "date": "2026-10-10T13:45:02.603448+08:00",
+  "status": "STYLE_CANDIDATE_DELIVERED_WITH_CROP_GAP_PENDING_PMO_REVIEW",
+  "owner_thread_id": "01a11a6f-49ef-7653-934a-4312979fd4e7",
+  "task": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/封面风格修订-v3任务.md",
+  "human_correction": "封面没那种味道啊，需要结合前两次的那种封面风格",
+  "v2_status": "USER_REJECTED_NOT_PUBLICATION_CANDIDATE",
+  "current_version": "v3.1",
+  "cover": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/Eli首帧封面-v3.1.png",
+  "cover_sha256": "196ab91cbe310fea43f9cdfb457d5987ada3fa833533d1eb4629c280aa346faa",
+  "cover_bytes": 2756359,
+  "qa": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/evidence/封面QA-v3.json",
+  "references": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/cover-v6/poster-frame14.png",
+      "role": "风格辅助：巨型字体、蓝橙反差、立体主题场景",
+      "sha256": "bf3b6ed312e85c81fe0150d0989f262b8ab656abd3d0af4d133a9d1b392eaadd",
+      "actually_viewed": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/sun-shao-interview-20261009/covers/邵艾伦×孙宇晨-没资源怎么抓住AI机会-海报-v3.png",
+      "role": "主风格：米白纸纹、深蓝橙笔刷、人物合成与插画路径",
+      "sha256": "84bfb6b6fd4578b3298aabf4cadf0eb297126cb9213c786d6b6aad68d003690b",
+      "actually_viewed": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/evidence/参考帧-03.000.png",
+      "role": "本条视频3秒帧：唯一人物身份、黑外套、圆框眼镜",
+      "sha256": "32f47dbf9a55490933e39d2429a3af654bc81d66e6ca252c6ce06985141f1f5b",
+      "actually_viewed": true
+    }
+  ],
+  "method": "built-in image_gen",
+  "generation_count": 1,
+  "targeted_repair_count": 1,
+  "prompts": [
+    "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/prompt-v3.txt",
+    "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/prompt-v3.1.txt"
+  ],
+  "raw_outputs": [
+    "/Users/USER/.codex/generated_images/01a11a6f-49ef-7653-934a-4312979fd4e7/exec-0eba9e6a-4418-4484-8620-127263aa1737.png",
+    "/Users/USER/.codex/generated_images/01a11a6f-49ef-7653-934a-4312979fd4e7/exec-eb50526f-f687-42f8-8f82-2fa68523aea9.png"
+  ],
+  "input_sha256": "595d690d45aa67d72ba28d9103fd4da2092458483509a9e0a6884a403ff13806",
+  "input_and_frozen_video_unchanged": true,
+  "input_copied_again": false,
+  "read_rule_versions": [
+    "ROUTING-2026-09-30-v3",
+    "HANDOFF-2026-10-10-v2",
+    "BLOCKERS-2026-09-23-v1"
+  ],
+  "target_model": "gpt-6.1-sol",
+  "target_effort": "medium",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "actual_speed": "UNKNOWN",
+  "unfinished": [
+    "主封面待PMO审图和用户选定",
+    "中心3:4裁切未通过，需要完整图适配或后续单独布局修订"
+  ],
+  "boundary": {
+    "changed_video": false,
+    "uploaded_or_published": false,
+    "dispatched_05_or_06": false,
+    "modified_shared_state": false,
+    "modified_reference_covers_or_interview_cleanup": false,
+    "installed_or_paid": false,
+    "deleted": false
+  },
+  "temporary_records": "新PNG、手机预览、QA裁切图、提示词、脚本与回执全部保留供审图/后续适配；无新视频/自动化",
+  "tool_failures": []
+}

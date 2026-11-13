@@ -1,0 +1,144 @@
+{
+  "content_id": "eli-brand-intro-20261010",
+  "date": "2026-10-10T13:31:48.218705+08:00",
+  "status": "DELIVERED_PENDING_USER_AND_PMO_REVIEW",
+  "owner_thread_id": "01a11a6f-49ef-7653-934a-4312979fd4e7",
+  "authorization_task": "/Volumes/EXTERNAL/自媒体/流程协作/04-剪辑与视觉制作/Eli形象短片封面任务-20261010.md",
+  "input_freeze": {
+    "source": "/Users/USER/Downloads/jimeng-2026-10-10-5555-基于已有的Eli个人品牌15秒宣传片进行局部编辑，完全保留0-6.5秒全部已生成....mp4",
+    "frozen": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/sources/Eli个人品牌-用户指定修订版-20261010.mp4",
+    "source_bytes": 13386003,
+    "frozen_bytes": 13386003,
+    "source_sha256": "595d690d45aa67d72ba28d9103fd4da2092458483509a9e0a6884a403ff13806",
+    "frozen_sha256": "595d690d45aa67d72ba28d9103fd4da2092458483509a9e0a6884a403ff13806",
+    "copy_verified": true,
+    "transcoded": false
+  },
+  "input_spec": {
+    "format": {
+      "bit_rate": "7105781",
+      "duration": "15.070548752834467",
+      "format_name": "mov,mp4 (AVFoundation adapter)",
+      "size": "13386003"
+    },
+    "streams": [
+      {
+        "avg_frame_rate": "23.986486/1",
+        "codec_name": "h264",
+        "codec_type": "video",
+        "height": 1280,
+        "width": 720
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      }
+    ]
+  },
+  "cover": {
+    "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/Eli首帧封面-v2.png",
+    "sha256": "c273f4d67e6ecc4b21c3679c507c199f36449817d2102344492d8ffd5ca62dfa",
+    "bytes": 1714540,
+    "width": 941,
+    "height": 1672,
+    "aspect": "near9:16",
+    "aspect_relative_error_percent": 0.05316,
+    "preview": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/Eli首帧封面-v2-预览.jpg",
+    "text": [
+      "我是 Eli",
+      "把 AI 用进真实任务",
+      "AI｜Agent｜FDE"
+    ],
+    "method": "built-in image_gen",
+    "prompts": [
+      "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/prompt-v1.txt",
+      "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/prompt-v2.txt"
+    ]
+  },
+  "generation_history": [
+    {
+      "version": "v1",
+      "raw": "/Users/USER/.codex/generated_images/01a11a6f-49ef-7653-934a-4312979fd4e7/exec-f49c9974-96f2-46f3-9b27-27558689ac8f.png",
+      "saved": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/Eli首帧封面-v1.png",
+      "reason_superseded": "中心3:4裁切会切近头发与辅助文字，保留历史"
+    },
+    {
+      "version": "v2",
+      "raw": "/Users/USER/.codex/generated_images/01a11a6f-49ef-7653-934a-4312979fd4e7/exec-7c454647-d8bc-4bd3-9a3f-9a3f84bde1eb.png",
+      "saved": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/Eli首帧封面-v2.png",
+      "change": "仅一次针对性裁切位置修正"
+    }
+  ],
+  "visual_qa": {
+    "owner": "04",
+    "method": "实际view_image查看参考帧和最终PNG、手机预览、中心3:4裁切图",
+    "viewed_source_seconds": [
+      3,
+      5
+    ],
+    "also_viewed": [
+      "既有sheet-01.jpg",
+      "既有12.5秒结尾原尺寸.jpg"
+    ],
+    "actual_final_viewed": [
+      "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/Eli首帧封面-v2.png",
+      "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/Eli首帧封面-v2-预览.jpg",
+      "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/evidence/居中3比4裁切检查-v2.png"
+    ],
+    "text_visual_match": true,
+    "face_and_round_glasses_visible": true,
+    "no_text_over_face": true,
+    "crop": {
+      "box": [
+        1,
+        210,
+        940,
+        1462
+      ],
+      "size": [
+        939,
+        1252
+      ],
+      "important_content_visible": true
+    },
+    "limit": "基于指定视频形象AI重绘；本人身份相似度最终待用户，实际平台遮挡/裁切待06。未连续播放听看视频，不把采样升级为全片验收"
+  },
+  "routing": {
+    "read_rules": [
+      "ROUTING-2026-09-30-v3",
+      "HANDOFF-2026-10-10-v2",
+      "BLOCKERS-2026-09-23-v1",
+      "IDEA-GATE-2026-09-30-v1"
+    ],
+    "target_model": "gpt-6.1-sol",
+    "target_effort": "medium",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN",
+    "actual_speed": "UNKNOWN"
+  },
+  "read_files": [
+    "/Volumes/EXTERNAL/自媒体/AGENTS.md",
+    "/Users/USER/.codex/AGENTS.details.md",
+    "/Users/USER/.codex/LOCAL_BLOCKERS.md",
+    "/Users/USER/.codex/skills/.system/imagegen/SKILL.md",
+    "/Volumes/EXTERNAL/自媒体/流程协作/README.md",
+    "/Volumes/EXTERNAL/自媒体/流程协作/流程状态.json",
+    "/Volumes/EXTERNAL/自媒体/流程协作/会话登记.json",
+    "/Volumes/EXTERNAL/自媒体/审片/eli形象短片修订-20261010/检查结论.md"
+  ],
+  "boundaries": {
+    "transcoded_video": false,
+    "inserted_cover_into_video": false,
+    "changed_music": false,
+    "uploaded_or_published": false,
+    "modified_old_interview": false,
+    "modified_shared_state": false,
+    "dispatched_other_threads": false,
+    "installed_or_paid": false,
+    "deleted": false
+  },
+  "next_step": "用户审封面，PMO审原件后依序派05/06；04不自行PASS，输入视频继续保留",
+  "processes_or_automations": "不适用；本轮工具均返回结束，无新增自动化",
+  "failures": [],
+  "temporary_records_status": "参考帧、QA裁切图、预览和提示词保留，用于审阅/恢复/适配"
+}

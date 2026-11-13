@@ -1,0 +1,109 @@
+{
+  "source": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/Eli首帧封面-v4.png",
+  "source_sha256": "6165d25ce794d0de9de7d47f5d8ca472a05dba53671dee392740f4bf996e0493",
+  "method": "Pillow ImageOps.contain LANCZOS；整图等比缩小，整数尺寸取整，不裁切；淡紫纯色留边与36px安全余量",
+  "outputs": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/适配-v4/Eli首帧封面-v4-3比4.png",
+      "preview": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/适配-v4/Eli首帧封面-v4-3比4-预览.jpg",
+      "width": 1080,
+      "height": 1440,
+      "bytes": 1922403,
+      "sha256": "dc1791f0d46a5b1103bb372d4cb340bea954ef71840c8ca036dc0f6673d1cf9f",
+      "source_box": [
+        0,
+        0,
+        941,
+        1672
+      ],
+      "fitted_size": [
+        770,
+        1368
+      ],
+      "placement": [
+        155,
+        36,
+        925,
+        1404
+      ],
+      "padding_color": [
+        246,
+        239,
+        250
+      ],
+      "preserved_entire_source": true,
+      "foreground_equals_expected_resample": true,
+      "cropped": false,
+      "stretched": false,
+      "redrawn": false
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/适配-v4/Eli首帧封面-v4-4比3.png",
+      "preview": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/适配-v4/Eli首帧封面-v4-4比3-预览.jpg",
+      "width": 1440,
+      "height": 1080,
+      "bytes": 1141596,
+      "sha256": "d6fd3fd971bbb10f3a403a63f4ec65c114eaf55b4c5c03a5e67d7497d44dcf7f",
+      "source_box": [
+        0,
+        0,
+        941,
+        1672
+      ],
+      "fitted_size": [
+        567,
+        1008
+      ],
+      "placement": [
+        436,
+        36,
+        1003,
+        1044
+      ],
+      "padding_color": [
+        246,
+        239,
+        250
+      ],
+      "preserved_entire_source": true,
+      "foreground_equals_expected_resample": true,
+      "cropped": false,
+      "stretched": false,
+      "redrawn": false
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/适配-v4/Eli首帧封面-v4-16比9.png",
+      "preview": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/适配-v4/Eli首帧封面-v4-16比9-预览.jpg",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 1150947,
+      "sha256": "45d6f1c7ea2d3ba36d87dbe0eabf65d25e3d59a5796bb217d0277e35c45a2f32",
+      "source_box": [
+        0,
+        0,
+        941,
+        1672
+      ],
+      "fitted_size": [
+        567,
+        1008
+      ],
+      "placement": [
+        676,
+        36,
+        1243,
+        1044
+      ],
+      "padding_color": [
+        246,
+        239,
+        250
+      ],
+      "preserved_entire_source": true,
+      "foreground_equals_expected_resample": true,
+      "cropped": false,
+      "stretched": false,
+      "redrawn": false
+    }
+  ]
+}

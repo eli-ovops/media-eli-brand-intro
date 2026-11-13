@@ -1,0 +1,22 @@
+{
+  "version": "v4",
+  "viewed": [
+    "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/Eli首帧封面-v4.png",
+    "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/Eli首帧封面-v4-预览.jpg"
+  ],
+  "method": "实际view_image原PNG及手机预览，与已查看v3.1比较",
+  "text": [
+    "把 AI 用起来",
+    "实用方法 · 项目经验 · 踩坑分享",
+    "我是 Eli",
+    "AI｜Agent｜FDE"
+  ],
+  "text_visually_correct": true,
+  "face_round_glasses_black_jacket_pose_visually_preserved": true,
+  "layout_brush_paper_three_theme_cards_preserved": true,
+  "purple_palette_and_light_background": true,
+  "text_does_not_cover_face": true,
+  "pixel_identity_unchanged": "UNKNOWN; image_gen编辑并非像素锁定",
+  "crop_3_4": "沿用原构图，中心裁切仍会切字；本轮留后续适配，未宣称通过",
+  "user_acceptance": "PENDING"
+}

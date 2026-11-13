@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-10",
+  "decision": "COVER_TECHNICAL_REVIEW_ACCEPTED_USER_SELECTION_PENDING",
+  "owner_turn_id": "01a12447-8d92-7bd2-9c2f-2b81e9f895d6",
+  "reviewed_original": "回执.json",
+  "actual_images_viewed": [
+    "covers/Eli首帧封面-v2.png",
+    "evidence/居中3比4裁切检查-v2.png"
+  ],
+  "observations": [
+    "三行文案准确",
+    "面部眼镜清楚且文字未遮面",
+    "居中3:4裁切保留主标题与辅助字"
+  ],
+  "cover_sha256": "c273f4d67e6ecc4b21c3679c507c199f36449817d2102344492d8ffd5ca62dfa",
+  "input_freeze": {
+    "source": "/Users/USER/Downloads/jimeng-2026-10-10-5555-基于已有的Eli个人品牌15秒宣传片进行局部编辑，完全保留0-6.5秒全部已生成....mp4",
+    "frozen": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/sources/Eli个人品牌-用户指定修订版-20261010.mp4",
+    "source_bytes": 13386003,
+    "frozen_bytes": 13386003,
+    "source_sha256": "595d690d45aa67d72ba28d9103fd4da2092458483509a9e0a6884a403ff13806",
+    "frozen_sha256": "595d690d45aa67d72ba28d9103fd4da2092458483509a9e0a6884a403ff13806",
+    "copy_verified": true,
+    "transcoded": false
+  },
+  "limitations": [
+    "AI重绘本人形象待用户确认",
+    "不是视频完整看听或平台实际裁切验收"
+  ],
+  "next": "用户审首帧，随后05质检与06实际平台适配；当前未上传发布"
+}

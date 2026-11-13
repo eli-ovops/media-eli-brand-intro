@@ -1,0 +1,12 @@
+{
+  "video_sha256": "595d690d45aa67d72ba28d9103fd4da2092458483509a9e0a6884a403ff13806",
+  "cover_sha256": "6165d25ce794d0de9de7d47f5d8ca472a05dba53671dee392740f4bf996e0493",
+  "original_sha256": "595d690d45aa67d72ba28d9103fd4da2092458483509a9e0a6884a403ff13806",
+  "audio_decode_exit": 0,
+  "audio_errors": "",
+  "audio_duration_48k_stereo": 15.092979166666666,
+  "peak": 0.6451895236968994,
+  "rms": 0.07655272615517927,
+  "clipping_samples": 0,
+  "audio_samples": 1448926
+}

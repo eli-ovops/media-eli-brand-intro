@@ -1,0 +1,381 @@
+{
+  "content_id": "eli-brand-intro-20261010",
+  "owner": "06",
+  "status": "USER_REPORTED_ALL_9_PUBLISHED_8_NATIVE_VISIBLE",
+  "model_actual": "UNKNOWN",
+  "publish_by": "用户本人",
+  "video": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/sources/Eli个人品牌-用户指定修订版-20261010.mp4",
+  "video_sha256": "595d690d45aa67d72ba28d9103fd4da2092458483509a9e0a6884a403ff13806",
+  "cover": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/Eli首帧封面-v4.png",
+  "cover_sha256": "6165d25ce794d0de9de7d47f5d8ca472a05dba53671dee392740f4bf996e0493",
+  "platforms": [
+    {
+      "platform": "小红书",
+      "ready": false,
+      "status": "USER_REPORTED_PUBLISHED",
+      "title": "把AI用起来｜我是Eli",
+      "body": "我是Eli，分享AI实用方法、项目经验和踩坑过程。一起把AI用进真实任务。",
+      "tags": [
+        "AI",
+        "人工智能",
+        "AI工具",
+        "AI实用技巧",
+        "Agent",
+        "FDE"
+      ],
+      "account": "Eli AI FDE（当前创作页）",
+      "upload": "完成",
+      "cover": "已上传3:4等比完整适配封面，完成应用；可视标题/我是Eli/AI身份均完整；原生封面效果评估通过",
+      "bgm": "编辑页无原生BGM入口；原片保留，听感待本人",
+      "saved": "编辑页保留；暂存按钮位于closed shadow root，CUA拒绝点击，未绕过；云端保存UNKNOWN",
+      "tab_id": "54",
+      "url": "https://creator.xiaohongshu.com/publish/publish?from=homepage&target=video",
+      "copy": "标题/正文/6标签回读一致",
+      "ai_declaration": "笔记含AI合成内容",
+      "manual_action": "不重复上传或发送",
+      "form_ready": true,
+      "cover_paths": [
+        "Eli首帧封面-v4-3比4.png"
+      ],
+      "proof": "小红书-完整封面已应用.jpg",
+      "published_source": "用户本轮确认已发；公开回执UNKNOWN"
+    },
+    {
+      "platform": "B站",
+      "ready": false,
+      "status": "USER_REPORTED_PUBLISHED",
+      "title": "把AI用起来｜我是Eli",
+      "body": "我是Eli，分享AI实用方法、项目经验和踩坑过程。一起把AI用进真实任务。",
+      "tags": [
+        "AI",
+        "人工智能",
+        "AI工具",
+        "AI实用技巧",
+        "Agent",
+        "FDE"
+      ],
+      "account": "Eli-AI /432834855，本轮self空间核对",
+      "upload": "完成",
+      "cover": "已分别应用4:3及16:9完整适配封面，关闭双比例同步；保存草稿3971531后重开封面窗口，两种完整图实际回读",
+      "bgm": "此网页无原生BGM混音入口，保留原片",
+      "saved": "草稿3971531重开回读：正确标题、Quill简介37字、6标签、人工智能分区、含AI生成内容",
+      "tab_id": "56",
+      "url": "https://member.bilibili.com/platform/upload/video/frame?type=draft&draftId=3971531",
+      "copy": "标题/简介/6原生标签已保存核对，错误隐藏mention输入已清空",
+      "ai_declaration": "含AI生成内容",
+      "manual_action": "不重复上传或发送",
+      "form_ready": true,
+      "cover_paths": [
+        "Eli首帧封面-v4-4比3.png",
+        "Eli首帧封面-v4-16比9.png"
+      ],
+      "proof": "B站-双封面保存后回读.jpg",
+      "published_source": "用户本轮确认已发；公开回执UNKNOWN"
+    },
+    {
+      "platform": "抖音",
+      "ready": false,
+      "status": "USER_REPORTED_PUBLISHED",
+      "title": "把AI用起来｜我是Eli",
+      "body": "我是Eli，分享AI实用方法、项目经验和踩坑过程。一起把AI用进真实任务。",
+      "tags": [
+        "AI",
+        "人工智能",
+        "AI工具",
+        "Agent",
+        "FDE"
+      ],
+      "account": "Eli-Ai /25296649142，本轮creator首页核对",
+      "upload": "首次失败→reload一次→原生重新上传成功，快速检测作品未见异常",
+      "cover": "3:4竖封面及4:3横封面已应用，暂存离开后继续编辑实际回读两图；文字完整",
+      "bgm": "批准原片音乐保留；原生仅音乐信息关联未设置，不声称新增实混音。原片不要求重复添加BGM",
+      "saved": "本轮双封面完成后暂存离开→继续编辑，标题正文标签AI声明双图均实读",
+      "tab_id": "55",
+      "copy": "本轮标题正文及5原生标签实读，保留用户当前编辑",
+      "url": "https://creator.douyin.com/creator-micro/content/post/video?enter_from=draft",
+      "ai_declaration": "内容由AI生成",
+      "manual_action": "Do not repeat upload/publish",
+      "form_ready": true,
+      "cover_paths": [
+        "Eli首帧封面-v4-3比4.png",
+        "Eli首帧封面-v4-4比3.png"
+      ],
+      "advisory": "本轮封面诊断失败请重试；不声称诊断通过，发布按钮仍启用",
+      "proof": "抖音-本轮待发回读.jpg",
+      "published_source": "User confirmed published in current turn; public receipt UNKNOWN"
+    },
+    {
+      "platform": "视频号",
+      "ready": false,
+      "status": "USER_REPORTED_PUBLISHED",
+      "title": "把AI用起来｜我是Eli",
+      "body": "我是Eli，分享AI实用方法、项目经验和踩坑过程。一起把AI用进真实任务。",
+      "tags": [
+        "AI",
+        "人工智能",
+        "AI工具",
+        "AI实用技巧",
+        "Agent",
+        "FDE"
+      ],
+      "account": "UNKNOWN",
+      "upload": "UNKNOWN",
+      "cover": "UNKNOWN",
+      "bgm": "UNKNOWN",
+      "saved": "本地人工准备包；按B002不访问",
+      "manual_action": "Do not repeat upload/publish",
+      "published_source": "User confirmed published in current turn; public receipt UNKNOWN"
+    },
+    {
+      "platform": "YouTube",
+      "ready": false,
+      "status": "USER_REPORTED_PUBLISHED",
+      "title": "把AI用起來｜我是Eli",
+      "body": "我是Eli，分享AI實用方法、專案經驗和踩坑過程。一起把AI用進真實任務。",
+      "tags": [
+        "AI",
+        "人工智能",
+        "AI工具",
+        "AI實用技巧",
+        "Agent",
+        "FDE"
+      ],
+      "account": "Eli-AI /UCqJaVQRO3FrxD5spt1GG7Iw，当前Studio",
+      "upload": "处理完成，版权检查未发现问题",
+      "cover": "自定义缩略图要求本人电话号码验证；未执行验证",
+      "bgm": "上传流程无原生BGM混音入口，原片保留",
+      "saved": "上传自动保存，最终公开范围选公开，发布按钮未点击",
+      "tab_id": "63",
+      "native_video_link": "https://youtube.com/shorts/V6fjEeK9k7Q",
+      "copy": "繁体标题正文及6原生标签芯片回读一致",
+      "ai_declaration": "是，使用了AI已checked；非面向儿童",
+      "manual_action": "Do not repeat upload/publish",
+      "published_source": "User confirmed published in current turn; public receipt UNKNOWN"
+    },
+    {
+      "platform": "LinkedIn",
+      "ready": false,
+      "status": "USER_REPORTED_PUBLISHED",
+      "title": "把AI用起來｜我是Eli",
+      "body": "我是Eli，分享AI實用方法、專案經驗和踩坑過程。一起把AI用進真實任務。",
+      "tags": [
+        "AI",
+        "人工智能",
+        "AI工具",
+        "AI實用技巧",
+        "Agent",
+        "FDE"
+      ],
+      "account": "ELi Chao /in/eli-chao-548a7a43b，本轮原生feed核对",
+      "upload": "已附视频，Post按钮启用",
+      "cover": "v4已应用；滚动原生预览后完整标题、我是Eli和底部身份实见，播放器contain",
+      "bgm": "无原生BGM入口；批准原片音乐保留",
+      "saved": "非公开编辑页保留，未Post；云保存UNKNOWN",
+      "tab_id": "61",
+      "url": "https://www.linkedin.com/sharing/compose",
+      "copy": "繁体标题首行、正文及6标签实读一致；Post启用",
+      "form_ready": true,
+      "manual_action": "Do not repeat upload/publish",
+      "proof": "LinkedIn-文案补齐回读.jpg",
+      "published_source": "User confirmed published in current turn; public receipt UNKNOWN"
+    },
+    {
+      "platform": "X",
+      "ready": false,
+      "status": "PUBLISHED_NATIVE_VISIBLE",
+      "title": "把AI用起來｜我是Eli",
+      "body": "我是Eli，分享AI實用方法、專案經驗和踩坑過程。一起把AI用進真實任務。",
+      "tags": [
+        "AI",
+        "人工智能",
+        "AI工具",
+        "AI實用技巧",
+        "Agent",
+        "FDE"
+      ],
+      "account": "Eli-AI /@cczij1112",
+      "upload": "Ready; one video; failed old attachment removed",
+      "cover": "当前原片首帧HELLO I'M ELI；此编辑页未提供自定义封面入口",
+      "bgm": "UNKNOWN",
+      "saved": "待发编辑页保留，未发帖；云端保存UNKNOWN",
+      "tab_id": "62",
+      "manual_action": "No duplicate publishing",
+      "url": "https://x.com/compose/post",
+      "copy": "标题首行、正文、6标签已回读；当前原生编辑视频仅字幕/内容警告，无独立标题或自定义封面入口",
+      "proof": "X-视频就绪待发送.jpg",
+      "form_ready": true,
+      "native_video_link": "https://x.com/cczij1112/status/2108903205312905231",
+      "published_source": "User confirmed and current own published post read; six hashtag links verified"
+    },
+    {
+      "platform": "微博",
+      "ready": false,
+      "status": "USER_REPORTED_PUBLISHED",
+      "title": "把AI用起来｜我是Eli",
+      "body": "我是Eli，分享AI实用方法、项目经验和踩坑过程。一起把AI用进真实任务。",
+      "tags": [
+        "AI",
+        "人工智能",
+        "AI工具",
+        "AI实用技巧",
+        "Agent",
+        "FDE"
+      ],
+      "account": "Eli-AI /7720929036，本轮主页核对",
+      "upload": "上传完成 12.77MB/12.77MB",
+      "cover": "3:4完整适配封面已上传，在裁切界面完整看图后点完成，返回表单实际封面已替换",
+      "bgm": "此网页无原生BGM混音入口，原片保留",
+      "saved": "独立非公开编辑页保留；云草稿UNKNOWN",
+      "tab_id": "65",
+      "url": "https://weibo.com/upload/channel",
+      "copy": "正确标题正文/6微博话题回读",
+      "ai_declaration": "含AI生成内容；原创类型，科技数码-科技",
+      "manual_action": "不重复上传或发送",
+      "form_ready": true,
+      "cover_paths": [
+        "Eli首帧封面-v4-3比4.png"
+      ],
+      "proof": "微博-完整封面已应用.jpg",
+      "published_source": "用户本轮确认已发；公开回执UNKNOWN"
+    },
+    {
+      "platform": "TikTok",
+      "ready": false,
+      "status": "USER_REPORTED_PUBLISHED",
+      "title": "把AI用起來｜我是Eli",
+      "body": "我是Eli，分享AI實用方法、專案經驗和踩坑過程。一起把AI用進真實任務。",
+      "tags": [
+        "AI",
+        "人工智能",
+        "AI工具",
+        "AI實用技巧",
+        "Agent",
+        "FDE"
+      ],
+      "account": "@elimakesapps，本轮原生账号菜单主页链接核对",
+      "upload": "已上传13.38MB 720P",
+      "cover": "已应用4:3完整适配封面；可视全文完整",
+      "bgm": "批准原片音乐保留",
+      "saved": "19:35原生草稿列表1条，文案和15秒信息回读；重开编辑页加载，普通刷新一次回上传页",
+      "tab_id": "59",
+      "url": "https://www.tiktok.com/tiktokstudio/content",
+      "manual_action": "Do not repeat upload/publish",
+      "draft_id": "171856205572",
+      "ai_declaration": "AI生成开关实际启用",
+      "copy": "繁体标题首行、正文、6标签上传时实读；草稿列表保存后全文实读",
+      "proof": "TikTok-完整封面预览.jpg",
+      "saved_proof": "TikTok-草稿保存回读.jpg",
+      "published_source": "User confirmed published in current turn; public receipt UNKNOWN"
+    }
+  ],
+  "updated_at": "2026-10-10T20:58:14+08:00",
+  "prepared_editors": 6,
+  "ready_count": 0,
+  "form_complete_count": 1,
+  "final_publish_clicked": false,
+  "automation_modified": false,
+  "continuous_audio_hearing": "UNKNOWN_HUMAN_FINAL_REVIEW",
+  "files_created_for_delivery": [
+    "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/flow/06/回执.json",
+    "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/flow/06/逐站准备表.md",
+    "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/flow/06/封面适配需求-04.md",
+    "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/flow/06/微博-待补封面.jpg",
+    "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/flow/06/YouTube-待本人发布.jpg",
+    "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/flow/06/抖音-3比4裁切阻断.jpg",
+    "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/flow/06/视频号人工准备.md",
+    "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/flow/06/B站-保存回读.jpg",
+    "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/flow/06/LinkedIn-待发页.jpg",
+    "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/flow/06/B站-双比例适配.jpg",
+    "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/flow/06/B站-草稿回读.jpg",
+    "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/flow/06/小红书-完整封面已应用.jpg",
+    "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/flow/06/B站-双封面保存后回读.jpg",
+    "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/flow/06/微博-完整封面已应用.jpg",
+    "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/flow/06/抖音-双封面保存回读.jpg",
+    "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/flow/06/抖音-草稿回读.jpg",
+    "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/flow/06/LinkedIn-完整封面回读.jpg",
+    "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/flow/06/小红书-待发页.jpg",
+    "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/flow/06/逐平台文案.md",
+    "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/flow/06/抖音-完整横封面.jpg"
+  ],
+  "published_metrics_exclude_this_draft": false,
+  "ready_definition": "Fields, approved complete cover and original audio prepared for human final review, not published or playback-hearing certified.",
+  "cover_completion_only": false,
+  "no_video_reupload_this_round": false,
+  "adapted_cover_files": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/适配-v4/Eli首帧封面-v4-16比9.png",
+      "sha256": "45d6f1c7ea2d3ba36d87dbe0eabf65d25e3d59a5796bb217d0277e35c45a2f32",
+      "bytes": 1150947
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/适配-v4/Eli首帧封面-v4-3比4.png",
+      "sha256": "dc1791f0d46a5b1103bb372d4cb340bea954ef71840c8ca036dc0f6673d1cf9f",
+      "bytes": 1922403
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/适配-v4/Eli首帧封面-v4-4比3.png",
+      "sha256": "d6fd3fd971bbb10f3a403a63f4ec65c114eaf55b4c5c03a5e67d7497d44dcf7f",
+      "bytes": 1141596
+    }
+  ],
+  "user_reported_published_count": 9,
+  "pending_platform_count": 0,
+  "current_round_scope": "User requested remaining-platform retry and manual WeChat package; TikTok upload authorized and saved draft, no publish.",
+  "current_tag_validation": [
+    {
+      "platform": "小红书",
+      "verified": 6,
+      "actual": [
+        "ai",
+        "人工智能",
+        "AI工具",
+        "AI实用技巧howto",
+        "Agent",
+        "FDE"
+      ],
+      "proof": "Published links /search_result type=54",
+      "deviation": "原稿AI实用技巧实际挂载为AI实用技巧howto"
+    },
+    {
+      "platform": "B站",
+      "verified": 6,
+      "proof": "Published search links from_source=video_tag"
+    },
+    {
+      "platform": "国内抖音",
+      "verified": 5,
+      "proof": "Published search links source=pc_click_hashtag_feed and matching new video ID"
+    },
+    {
+      "platform": "YouTube",
+      "verified": 6,
+      "proof": "Reopened published edit, native ytcp-chip and remove controls; Save disabled, no edits"
+    },
+    {
+      "platform": "LinkedIn",
+      "verified": 6,
+      "proof": "Published View hashtag links HASH_TAG_FROM_FEED"
+    },
+    {
+      "platform": "X",
+      "verified": 6,
+      "proof": "Published /hashtag/... links"
+    },
+    {
+      "platform": "微博",
+      "verified": 6,
+      "proof": "New post #topic# search links",
+      "old_guide_issue": "#AI工具 is plain text, only other 5 tags are links"
+    },
+    {
+      "platform": "TikTok",
+      "verified": 5,
+      "proof": "Published /tag/... links; human retained five tags"
+    },
+    {
+      "platform": "微信视频号",
+      "verified": "UNKNOWN",
+      "proof": "Existing site-safety refusal; not accessed"
+    }
+  ]
+}

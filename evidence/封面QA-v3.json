@@ -1,0 +1,73 @@
+{
+  "content_id": "eli-brand-intro-20261010",
+  "version": "v3.1",
+  "cover": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/Eli首帧封面-v3.1.png",
+  "dimensions": [
+    941,
+    1672
+  ],
+  "sha256": "196ab91cbe310fea43f9cdfb457d5987ada3fa833533d1eb4629c280aa346faa",
+  "method": "实际查看原PNG、540px宽手机预览、中心3:4裁切PNG",
+  "viewed": [
+    "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/Eli首帧封面-v3.1.png",
+    "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/Eli首帧封面-v3.1-预览.jpg",
+    "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/evidence/居中3比4裁切检查-v3.1.png"
+  ],
+  "reference_images": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/cover-v6/poster-frame14.png",
+      "role": "风格辅助：巨型字体、蓝橙反差、立体主题场景",
+      "sha256": "bf3b6ed312e85c81fe0150d0989f262b8ab656abd3d0af4d133a9d1b392eaadd",
+      "actually_viewed": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/sun-shao-interview-20261009/covers/邵艾伦×孙宇晨-没资源怎么抓住AI机会-海报-v3.png",
+      "role": "主风格：米白纸纹、深蓝橙笔刷、人物合成与插画路径",
+      "sha256": "84bfb6b6fd4578b3298aabf4cadf0eb297126cb9213c786d6b6aad68d003690b",
+      "actually_viewed": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/evidence/参考帧-03.000.png",
+      "role": "本条视频3秒帧：唯一人物身份、黑外套、圆框眼镜",
+      "sha256": "32f47dbf9a55490933e39d2429a3af654bc81d66e6ca252c6ce06985141f1f5b",
+      "actually_viewed": true
+    }
+  ],
+  "full_portrait_qa": {
+    "title": "把 AI 用起来",
+    "subtitle": "实用方法 · 项目经验 · 踩坑分享",
+    "identity": "我是 Eli",
+    "identity_line": "AI｜Agent｜FDE",
+    "visual_text_correct": true,
+    "unrequested_decorative_words_removed": true,
+    "one_person": true,
+    "face_and_round_glasses_visible": true,
+    "text_does_not_cover_face": true,
+    "theme_cards": [
+      "工具操作界面",
+      "项目流程",
+      "问题→修复"
+    ],
+    "claims": "纯频道主题示意，无收益/客户/真实项目成果"
+  },
+  "crop_qa": {
+    "box": [
+      1,
+      210,
+      940,
+      1462
+    ],
+    "size": [
+      939,
+      1252
+    ],
+    "passed": false,
+    "issue": "标题顶部和底部身份文案被截；不宜直接中心3:4裁切",
+    "next": "06经PMO释放后在真实编辑器优先完整图等比适配；若平台强制填满3:4，需要另做布局适配"
+  },
+  "limitations": [
+    "AI重绘非原帧像素不变；本人身份相似度最终由用户审阅",
+    "不是所有比例与所有平台按钮遮区均已通过",
+    "本轮只生成1张新设计并完成1次针对性修复，未无限追加生成"
+  ]
+}

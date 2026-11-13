@@ -1,0 +1,81 @@
+{
+  "content_id": "eli-brand-intro-20261010",
+  "stage": "05",
+  "scope": "cover_ratio_adaptation_only",
+  "date": "2026-10-10 Asia/Shanghai",
+  "status": "SUBMITTED_FOR_PMO_REVIEW",
+  "decision": "PASS_LOCAL_COVER_ADAPTATION_RECOMMEND_RESUME06",
+  "actual_pngs_viewed": 3,
+  "mandatory_fixes": [],
+  "outputs": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/适配-v4/Eli首帧封面-v4-3比4.png",
+      "sha256": "dc1791f0d46a5b1103bb372d4cb340bea954ef71840c8ca036dc0f6673d1cf9f",
+      "dimensions": [
+        1080,
+        1440
+      ],
+      "sha_matches": true,
+      "entire_source_resample_matches": true,
+      "placement": [
+        155,
+        36,
+        925,
+        1404
+      ]
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/适配-v4/Eli首帧封面-v4-4比3.png",
+      "sha256": "d6fd3fd971bbb10f3a403a63f4ec65c114eaf55b4c5c03a5e67d7497d44dcf7f",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "sha_matches": true,
+      "entire_source_resample_matches": true,
+      "placement": [
+        436,
+        36,
+        1003,
+        1044
+      ]
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/适配-v4/Eli首帧封面-v4-16比9.png",
+      "sha256": "45d6f1c7ea2d3ba36d87dbe0eabf65d25e3d59a5796bb217d0277e35c45a2f32",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "sha_matches": true,
+      "entire_source_resample_matches": true,
+      "placement": [
+        676,
+        36,
+        1243,
+        1044
+      ]
+    }
+  ],
+  "gate": {
+    "exit_code": 2,
+    "raw": {
+      "allowed": false,
+      "reason": "STAGE_NOT_RELEASED"
+    },
+    "specific_recheck_release": "stages.05.adaptation_recheck=RELEASED",
+    "base_stage_status": "PASSED",
+    "basis": "specific PMO delegation and explicit adaptation_recheck release; no shared state changes"
+  },
+  "pixel_check_note": "Initial comparison used fitted_size as contain bounds and rounded the wide image height again; corrected to actual canvas minus 72 bounds after reading adapt_cover_v4.py. All corrected comparisons match.",
+  "platform_editor_acceptance": "UNKNOWN_PENDING_STAGE06",
+  "visual_findings": "实际看三张最终PNG，四组文字把AI用起来/实用方法项目经验踩坑分享/我是Eli/AI Agent FDE均完整；眼镜、脸、衣服和三主题卡保留，无压脸或裁断。4:3与16:9的横向宽留边是任务已接受的等比整图方案，不重绘。",
+  "limits_and_next": "本地尺寸、SHA、全图重采样一致及视觉补验通过；06仍需在平台编辑器核裁切/控件覆盖和实际接受情况，不冒称平台通过。通用check只识别主stage RELEASED，未识别adaptation_recheck；专项释放原件明确，报PMO核收，不修改共享PASS或自行派06。视频既有检查沿用，不重跑，不重复用户批准。",
+  "read_evidence": ["/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/比例适配回执-v4.json", "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/evidence/比例适配-v4-原始核验.json", "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/比例适配文件记录-v4.json", "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/adapt_cover_v4.py", "/Volumes/EXTERNAL/自媒体/流程协作/流程状态.json（05.adaptation_recheck）"],
+  "file_record": "仅新增本05封面适配补验.json，无新媒体/临时项/清理/视频封面改动/外写。",
+  "video_rechecked": false,
+  "user_reapproval_requested": false,
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "actual_speed": "UNKNOWN"
+}

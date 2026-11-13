@@ -1,0 +1,37 @@
+{
+  "content_id": "eli-brand-intro-20261010",
+  "stage": "05",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "decision": "PASS_FOR_PLATFORM_PREPARATION",
+  "evidence_read": [
+    "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/flow/05/回执.json",
+    "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/flow/05/质检.md",
+    "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/flow/05/technical-check.json",
+    "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/PMO封面验收-v4.json"
+  ],
+  "human_review_source": "用户选定修订片、选定紫色v4封面并明确开始到本人最后发布准备",
+  "frozen_files": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/sources/Eli个人品牌-用户指定修订版-20261010.mp4",
+      "sha256": "595d690d45aa67d72ba28d9103fd4da2092458483509a9e0a6884a403ff13806",
+      "verified": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/eli-brand-intro-20261010/covers/Eli首帧封面-v4.png",
+      "sha256": "6165d25ce794d0de9de7d47f5d8ca472a05dba53671dee392740f4bf996e0493",
+      "verified": true
+    }
+  ],
+  "remaining_visual_mandatory_fixes": [],
+  "limitations": [
+    "全帧缩略序列非实时连续看听，音乐听感待本人最终播放",
+    "平台封面比例及原生控件由06实际核"
+  ],
+  "gate_exception": {
+    "scope": "仅eli-brand-intro-20261010用户提供完成片从04接入",
+    "basis": "用户本次明确发布准备授权及05原件",
+    "standard_script_pass": false,
+    "action": "PMO定向人工核内容ID/唯一Owner/当前阶段/用户选择/05原件/精确SHA后释放06；不补造01—03历史PASS、不改通用门禁源码"
+  },
+  "routing_actual": "UNKNOWN"
+}
